@@ -1,3 +1,5 @@
+Hola! Soy Javier Rivarola.
+
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
 🌱 &nbsp;Objetivo: Frontend/QA.\
 ✍️ &nbsp;Entusiasta de AI.\
