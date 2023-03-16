@@ -31,8 +31,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/javier-ignacio-rivarola-509a12235/"><img src="https://img.shields.io/badge/-Guido%20Favara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nacho.rivarola@hotmail.com"><img src="https://img.shields.io/badge/-guido.favara05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/javier-ignacio-rivarola-509a12235/"><img src="https://img.shields.io/badge/-Javier%20Rivarola-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nacho.rivarola@hotmail.com"><img src="https://img.shields.io/badge/-nacho.rivarola@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
 <!---  
